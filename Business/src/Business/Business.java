@@ -1,4 +1,4 @@
-package business.business;
+package Business;
 import open.Check;
 
 public class Business {

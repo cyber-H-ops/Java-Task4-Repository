@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Business/Business.iml" filepath="$PROJECT_DIR$/Business/Business.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Task4-Repository.iml" filepath="$PROJECT_DIR$/.idea/Java-Task4-Repository.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Business/Main/Main.iml" filepath="$PROJECT_DIR$/Business/Main/Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Main/Main.iml" filepath="$PROJECT_DIR$/Main/Main.iml" />
       <module fileurl="file://$PROJECT_DIR$/NIRA/NIRA.iml" filepath="$PROJECT_DIR$/NIRA/NIRA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Passport/Passport.iml" filepath="$PROJECT_DIR$/Passport/Passport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tax/Tax.iml" filepath="$PROJECT_DIR$/Tax/Tax.iml" />
     </modules>
   </component>
 </project>
